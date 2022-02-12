@@ -2,14 +2,5 @@ title: Ludmil's Home Page on GitHub
 mylogo: /assets/img/l1_2014.jpg
 google_analytics:
 show_downloads: false
-include: [_pages]
-defaults:
-  -
-    scope:
-      type: pages
-      path: _pages
-    values:
-      is_post: false
-      layout: default
 
 
