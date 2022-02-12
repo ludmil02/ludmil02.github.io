@@ -1,0 +1,24 @@
+---
+---
+
+@import "";
+/* *{margin:0;padding:0;} */
+*{margin:0}
+*{font-family: helvetica, verdana, times; font-size:1em;}
+
+/* margins are ordered as: top right bottom left*/
+h1{font-weight:bold; font-size:18px;font-family:sans-serif; white-space:nowrap;color:rgb(0,0,153);text-align:center;}
+h2{font-weight:bold; font-size:14px; font-family:sans-serif;  margin:0px 10px 0px 0px; display:inline}
+h3{font-weight:bold; font-size:14px; font-family:sans-serif; white-space:nowrap}
+
+p.intext{margin:5px 0px 5px 0px; font-family:helvetica, verdana, sans-serif; font-size:20px}
+
+li{font-family: helvetica, verdana, times; font-size:1em; margin:0 0 10px 0;}
+
+img{vertical-align:middle;}
+
+a:link {color:#0000FF;}    /* unvisited link */
+a:visited {color:#00008B;} /* visited link */
+a:hover {color:#FF0000;}   /* mouse over link */
+a:active {color:#0000FF;}  /* selected link */
+
