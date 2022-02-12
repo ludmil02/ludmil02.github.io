@@ -1,38 +1,23 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-{% seo %}
-<!--link rel="stylesheet" type="text/css" href="/assets/css/style.scss"/-->
-</head>
+        {% include head_ltz1.html %}
+  </head>
   <body>
-    <div>
-      <header>
-        <!--h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1-->
-
-        {% if site.mylogo %}
-        <img src="{{site.mylogo | relative_url}}" alt="Ludmil's picture 2014" />
-        {% endif %}
-
-        {% if site.description %}
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        {% endif %}
-	
-      </header>
-      <section>
-
+    <header>
+      {% include top_matter.html %}
+    </header>
+    <section>
+      
       {{ content }}
-
+      
       {% include table_db.html %}
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <!--p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p-->
-      </footer>
-    </div>
+    </section>
+    <footer>
+      {% if site.github.is_project_page %}
+      <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      {% endif %}
+      <!--p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p-->
+    </footer>
   </body>
 </html>
