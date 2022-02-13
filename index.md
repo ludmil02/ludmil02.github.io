@@ -69,7 +69,7 @@
 <li>2014: Research on Efficient algorithms for <span style="font-style:italic;">planar graph drawing</span>
 	  using Tutte embedding with <a href="https://www.linkedin.com/in/laura-san-roman-b44901104/"><b>Laura San Roman</b></a> (PSU student, class of
 	  2016, co-mentor: J. C. Urschel).</li>
-<li>2013: Together with <a href="http://math.mit.edu/~urschel/">John C. Urschel</a> we worked with four PSU undergraduate students on <span style="font-style:italic;">&quot;Graph drawing&quot;</span> (with <b>Maureen Gallagher</b> and <b>Colleen Tygh</b>) and on <span style="font-style:italic;">"Monotone schemes for convection diffusion equations"</span> (with <b>Bradley Thompson</b> and <b>Dana Tobin</b>). Descriptions and reports on the research are found at the <a href="http://sites.psu.edu/cmus2013/">web page</a>dedicated to this undergraduate research.</li>
+<li>2013: Together with <a href="http://math.mit.edu/~urschel/">John C. Urschel</a> we worked with four PSU undergraduate students on <span style="font-style:italic;">&quot;Graph drawing&quot;</span> (with <b>Maureen Gallagher</b> and <b>Colleen Tygh</b>) and on <span style="font-style:italic;">"Monotone schemes for convection diffusion equations"</span> (with <b>Bradley Thompson</b> and <b>Dana Tobin</b>). Descriptions and reports on the research are found at the &nbsp;<a href="http://sites.psu.edu/cmus2013/">web page</a>&nbsp;dedicated to this undergraduate research.</li>
 </ul>
 </div>
 <p><b>Contact info.</b>
