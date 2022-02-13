@@ -70,17 +70,8 @@
 	  2016, co-mentor: J. C. Urschel).</li>
 <li>2013: Together with <a href="http://math.mit.edu/~urschel/">John C. Urschel</a> we worked with four PSU undergraduate students on <span style="font-style:italic;">&quot;Graph drawing&quot;</span> (with <b>Maureen Gallagher</b> and <b>Colleen Tygh</b>) and on <span style="font-style:italic;">"Monotone schemes for convection diffusion equations"</span> (with <b>Bradley Thompson</b> and <b>Dana Tobin</b>). Descriptions and reports on the research are found at <a href="http://sites.psu.edu/cmus2013/">sites.psu.edu/cmus2013</a></li>
 </ul>
- <p style="border-top:2px solid #888">
-	<b>Research support.</b> 
-	The research support  by the National Science Foundation (NSF),
-	US Department of Energy (DoE), and the Penn State's <a href="http://ccma.math.psu.edu/">Center for Computational 
-	  Mathematics and Applications</a> (CCMA) is gratefully
-	acknowledged. List  of past and current  NSF
-	awards in which I have  been (or I am) a CoPI or the PI is found  <a									    href="http://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&amp;PIFirstName=ludmil&amp;PILastName=zikatanov&amp;IncludeCoPI=true&amp;PIOrganization=Pennsylvania+State+Univ+University+Park&amp;PIState=&amp;PIZip=&amp;PICountry=&amp;ProgOrganization=&amp;ProgEleCode=&amp;BooleanElement=All&amp;ProgRefCode=&amp;BooleanRef=All&amp;Program=&amp;ProgOfficer=&amp;Keyword=&amp;AwardNumberOperator=&amp;AwardAmount=&amp;AwardInstrument=&amp;ActiveAwards=true&amp;ExpiredAwards=true&amp;OriginalAwardDateOperator=&amp;StartDateOperator=&amp;ExpDateOperator=">here</a>.
-      </p>
-      <p style="border-top:none"><b>Miscellaneous info.</b> I have a finite  <b>Erd&ouml;s-Bacon number</b> (small world, eh...) This is the sum of one&apos;s Erd&ouml;s number and the one&apos;s Bacon number. The former can be found using the collaboration distance tool on <a href="https://mathscinet.ams.org/mathscinet/freeTools.html?version=2">MathSciNet</a>; and the latter can be found using <a href="http://oracleofbacon.org/">The Oracle of Bacon</a> (Documentaries and TV shows/series should be included as additional options in my case). A quick search shows that my Erd&ouml;s-Bacon	number is equal to <b>6</b> (click <a href="erdos_bacon/">here for more info</a>). One may read more about the Erd&ouml;s-Bacon number on Wikipedia <a href="https://en.wikipedia.org/wiki/Erdos-Bacon_number">http://en.wikipedia.org/wiki/Erd&ouml;s_Bacon_number</a>.
-	</p>
-      <p><b>Contact info.</b>
+</p>
+<p><b>Contact info.</b>
 	Ludmil Zikatanov, &nbsp;Department of Mathematics, &nbsp;239 McAllister building, &nbsp; Penn State, &nbsp; University Park, PA, 16802<br/>
 	Skype ID: ltz.math &nbsp;<br/>E-mail: &lt;ludmil.math AT  gmail DOT com&gt;
       </p>
