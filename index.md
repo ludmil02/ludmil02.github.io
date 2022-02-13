@@ -32,7 +32,8 @@
 </div>
 <p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">
  <div style="clear: both; height:4px;border-bottom:6px solid #888;border-top:none"></div>
- <div style="float:left; margin: 5px 5px 5px 5px">
+ <div style="width:100%;float:left; margin: 5px 5px 5px 5px">
+	<p style="border:none">&nbsp;</p>
       	<p style="border:none"><b>Publications.</b></p>
 	<p style="border:none;white-space:nowrap;padding-top:0px;padding-bottom:0px">
 		<a href="https://scholar.google.com/citations?user=7QW688MAAAAJ&hl=en">[html (Google Scholar)]</a>&nbsp;
@@ -41,8 +42,8 @@
         <a href="http://zbmath.org/?q=ai:zikatanov.ludmil-t">[html (Zentralblatt MATH)]</a>&nbsp; 
 	 <a href="http://www.mathnet.ru/php/person.phtml?option_lang=eng&amp;personid=39886">[html(Math-Net.Ru)]</a>
 		 </p>
-      <p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">
-	<b>Ph.D. students.</b></p>
+      <p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">&nbsp;</br>
+	 <b>Ph.D. students.</b></p>
       <ul>
 	<li>
 	  <b>Current Ph.D. students:</b>&nbsp;Zhengqi Liu, &nbsp;Cheng Zuo
@@ -54,11 +55,12 @@
 	</li>
       </ul>
 	<p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">
-		<b>Software.</b></p> 
-	<p style="border:none;">Together with <a href="http://math.tufts.edu/faculty/xhu/">Xiaozhe
+ &nbsp;<br/>
+	<b>Software.</b>&nbsp;Together with <a href="http://math.tufts.edu/faculty/xhu/">Xiaozhe
 	  Hu</a> (Tufts) and <a href="http://math.tufts.edu/faculty/jadler">James Adler</a>
-	(Tufts) I am one of the authors of the <a href="https://hazmathteam.github.io/hazmath/"><i>HAZmath: A Simple Finite Element, Graph, and Solver Library</i> </a>, which provides basic finite element and graph routines.</p>
-      <p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">
+	(Tufts) I am one of the authors of the <a href="https://hazmathteam.github.io/hazmath/"><i>HAZmath: A Simple Finite Element, Graph, and Solver Library</i> </a>, which provides basic finite element and graph routines.
+	</p>
+      <p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">&nbsp;<br/>
 	<b>Undergraduate research.</b> 
       </p>
       <ul>
@@ -74,7 +76,8 @@
 	Ludmil Zikatanov, &nbsp;Department of Mathematics, &nbsp;239 McAllister building, &nbsp; Penn State, &nbsp; University Park, PA, 16802<br/>
 	Skype ID: ltz.math &nbsp;<br/>E-mail: &lt;ludmil.math AT  gmail DOT com&gt;
       </p>
-</div>
+</div> 
+<div style="clear: both; height:4px;border-bottom:6px solid #888;border-top:none"></div>
 <div style="float:right;">&copy; <em>Ludmil Zikatanov (1997--)</em></div>
 <!--     -->
 
