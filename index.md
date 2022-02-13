@@ -155,7 +155,8 @@
 	E-mail: &lt;ludmil.math AT  gmail DOT com&gt;
       </p>
 
-      <div style="float:right;">&copy; <em>Ludmil Zikatanov (1997--)</em></div></div>
+      <div style="float:right;">&copy; <em>Ludmil Zikatanov (1997--)</em></div>
+      
 
 
 
