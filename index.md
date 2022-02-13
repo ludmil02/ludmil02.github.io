@@ -8,10 +8,10 @@
 </div>
 
 <div style="width:1024px;">
-  <div style="float:left;width:10%;margin: 5px 5px 5px 5px">
+  <div style="float:left;width:16%;margin: 5px 5px 5px 5px">
     <img src = "/assets/img/l1_2014.jpg" alt="Ludmil's Picture (2014, Acumuer)"	 style="width:155px" />
   </div>
-  <div style="float:left; width:85%;margin: 5px 5px 5px 5px"><p style="border:none;"><b>About me.</b>  Since July 2011, I have been holding a Full Professor position at the <a href="http://www.math.psu.edu/">Department of Mathematics</a>, &nbsp; <a href="http://www.psu.edu/">The Pennsylvania State University</a>. <br/>
+  <div style="float:left; width:80%;margin: 5px 5px 5px 5px"><p style="border:none;"><b>About me.</b>  Since July 2011, I have been holding a Full Professor position at the <a href="http://www.math.psu.edu/">Department of Mathematics</a>, &nbsp; <a href="http://www.psu.edu/">The Pennsylvania State University</a>. <br/>
       I graduated from the (the site is in Bulgarian) <a href="http://www.pmg-blg.com/">Mathematics High School</a> in Blagoevgrad, Bulgaria (class of 1981).<br/>
       I received my Ph.D. degree in Mathematics from <a href="https://www.fmi.uni-sofia.bg/en">Sofia University &quot;St. Kliment Ohridski&quot;</a> in Sofia, Bulgaria.</p>  
   <p>
