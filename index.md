@@ -8,10 +8,10 @@
 </div>
 
 <div>
-  <div style="float:left; margin: 0px 0px 0px 0px">
+  <div style="float:left; margin: 5px 5px 5px 5px">
     <img src = "/assets/img/l1_2014.jpg" alt="Ludmil's Picture (2014, Acumuer)"	 style="width:124px" />
   </div>
-  <div style="float:left; margin: 0px 0px 0px 0px">
+  <div style="float:left; margin: 5px 5px 5px 5px">
     <p style="border:none"><b>About me.</b>  Since July 2011, I have been holding a Full Professor position at
       the <a href="http://www.math.psu.edu/">Department of Mathematics</a>, &nbsp; <a href="http://www.psu.edu/">The
 	Pennsylvania State University</a>. <br/>
@@ -20,8 +20,6 @@
       I received my Ph.D. degree in Mathematics from
       <a href="https://www.fmi.uni-sofia.bg/en">Sofia University &quot;St. Kliment Ohridski&quot;</a> in Sofia, Bulgaria.
     </p>
-  </div>
-  <div class="y"></div>
   <p>
     I am working in the general area of computational mathematics. My
     research is focused on numerical methods for partial differential
@@ -31,6 +29,8 @@
     mathematical techniques in hydrogeology, resource economics, physics
     and other sciences.
   </p>
+</div>
+  <div class="y"></div>
   <div class="xlefty">
       	<p style="border:none"><b>Publications.</b></p>
 	<p style="border:none;white-space:nowrap;padding-top:0px;padding-bottom:0px">
