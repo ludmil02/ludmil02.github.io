@@ -7,7 +7,7 @@
   <div style="float:right;margin:0px 10px 0px 0px"><a href="http://ccma.math.psu.edu"><img src="/assets/img/logotoccma.png" alt="CCMA AT PSU"/></a></div>
 </div>
 
-<div style="width:100%;">
+<div style="width:1024px;">
   <div style="float:left;width:16%;margin: 5px 5px 5px 5px">
     <img src = "/assets/img/l1_2014.jpg" alt="Ludmil's Picture (2014, Acumuer)"	 style="width:155px" />
   </div>
