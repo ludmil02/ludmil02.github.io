@@ -143,7 +143,6 @@
 	One may read more about the Erd&ouml;s-Bacon number on
 	Wikipedia <a href="https://en.wikipedia.org/wiki/Erdos-Bacon_number">http://en.wikipedia.org/wiki/Erd&ouml;s_Bacon_number</a>.
       </p>
-      -->
 
       <p><b>Contact info.</b>
 	Ludmil Zikatanov, &nbsp;
@@ -156,7 +155,8 @@
       </p>
 
       <div style="float:right;">&copy; <em>Ludmil Zikatanov (1997--)</em></div>
-      
+     -->
+
 
 
 
