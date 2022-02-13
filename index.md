@@ -7,7 +7,7 @@
   <div style="float:right;margin:0px 10px 0px 0px"><a href="http://ccma.math.psu.edu"><img src="/assets/img/logotoccma.png" alt="CCMA AT PSU"/></a></div>
 </div>
 
-<div class="alltxt">
+<div "width:1024px;">
   <div style="float:left; margin: 5px 5px 5px 5px">
     <img src = "/assets/img/l1_2014.jpg" alt="Ludmil's Picture (2014, Acumuer)"	 style="width:124px" />
   </div>
@@ -30,8 +30,9 @@
     and other sciences.
   </p>
 </div>
+<p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">
  <div class="y"></div>
- <div class="xlefty">
+ <div style="float:left; margin: 5px 5px 5px 5px">
       	<p style="border:none"><b>Publications.</b></p>
 	<p style="border:none;white-space:nowrap;padding-top:0px;padding-bottom:0px">
 		<a href="https://scholar.google.com/citations?user=7QW688MAAAAJ&hl=en">[html (Google Scholar)]</a>&nbsp;
@@ -40,8 +41,7 @@
         <a href="http://zbmath.org/?q=ai:zikatanov.ludmil-t">[html (Zentralblatt MATH)]</a>&nbsp; 
 	 <a href="http://www.mathnet.ru/php/person.phtml?option_lang=eng&amp;personid=39886">[html(Math-Net.Ru)]</a>
 		 </p>
-   </div>
-      <div class="x"></div>
+ </div>
       <p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">
 	<b>Ph.D. students.</b></p>
       <ul>
