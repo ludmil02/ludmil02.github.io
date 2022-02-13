@@ -33,7 +33,7 @@ I have attended the <a href="http://www.pmg-blg.com/">Mathematics High School</a
 <p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">
  <div style="clear: both; height:4px;border-bottom:6px solid #888;border-top:none"></div>
  <div style="width:100%;float:left; margin: 5px 5px 5px 5px">
-      	<p style="border:none">&nbsp;<br/><b>Publications.</b></p>
+      	<!--p style="border:none">&nbsp;<br/><b>Publications.</b></p-->
 	<p style="border:none;white-space:nowrap;padding-top:0px;padding-bottom:0px">
 		<a href="https://scholar.google.com/citations?user=7QW688MAAAAJ&hl=en">[Google Scholar]</a>&nbsp;&nbsp;
 	<a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/321919">
@@ -78,7 +78,7 @@ I have attended the <a href="http://www.pmg-blg.com/">Mathematics High School</a
 	Skype ID: ltz.math &nbsp;<br/>E-mail: &lt;ludmil.math AT  gmail DOT com&gt;
       </p> 
 <div style="clear: both; height:4px;border-bottom:6px solid #888;border-top:none"></div>
-<div style="float:right;">&copy; <em>Ludmil Zikatanov (1997--)</em></div>
+<div style="float:right;">&copy; <em>Ludmil Zikatanov (1997--present)</em></div>
 <!--     -->
 
 
