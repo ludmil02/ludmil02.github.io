@@ -31,7 +31,7 @@
   </p>
 </div>
 <p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">
- <div class="y"></div>
+ <div style="clear: both; height:4px;border-bottom:6px solid #888;border-top:none"></div>
  <div style="float:left; margin: 5px 5px 5px 5px">
       	<p style="border:none"><b>Publications.</b></p>
 	<p style="border:none;white-space:nowrap;padding-top:0px;padding-bottom:0px">
