@@ -42,7 +42,7 @@
         <a href="http://zbmath.org/?q=ai:zikatanov.ludmil-t">[html (Zentralblatt MATH)]</a>&nbsp; 
 	 <a href="http://www.mathnet.ru/php/person.phtml?option_lang=eng&amp;personid=39886">[html(Math-Net.Ru)]</a>
 		 </p>
-      <p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">&nbsp;</br>
+      <p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">&nbsp;<br/>
 	 <b>Ph.D. students.</b></p>
       <ul>
 	<li>
