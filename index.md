@@ -36,36 +36,33 @@ mathematical techniques in hydrogeology, resource economics, physics
 and other sciences.
 </p>
 
-     <div class="xlefty">
-       <p style="border:none">
-       <!--p style="border-top:2px solid #888;border-bottom:none;padding-bottom:0px"-->
-       <b>Publications</b> (MathSciNet links require a subscription)<b>.</b>
-       </p>
-
-       <p style="border:none;white-space:nowrap;padding-top:0px;padding-bottom:0px" >
-       <a href="https://scholar.google.com/citations?user=7QW688MAAAAJ&hl=en">
-       [html (Google Scholar)]</a>
-       &nbsp; 
-       <a     href="http://www.ams.org/mathscinet-getauth?mrauthid=321919&amp;return=bibtex">
-       [bibtex (MathSciNet)]</a>
-       &nbsp; 
-       <a href="http://www.ams.org/mathscinet/search/publications.html?pg1=IID&amp;s1=321919&amp;vfpref=html&amp;r=1&amp;extend=1">
-       [html (MathSciNet)]</a>
-       </p>
-       
-       <p style="border:none;white-space:nowrap;padding-top:0px;">
-       <a href="arxiv_list">[html (arxiv)]</a>
-       &nbsp;
-       <a href="http://zbmath.org/?q=ai:zikatanov.ludmil-t">[html (Zentralblatt MATH)]</a>
-       &nbsp; 
-<!--       <a href="scopus_list">[html (Scopus)]</a>
-       </p>
-       <p style="border:none;white-space:nowrap;padding-top:0px;">
--->
-	 <a href="http://www.mathnet.ru/php/person.phtml?option_lang=eng&amp;personid=39886">[html
+    <div class="xlefty">
+  <p style="border:none">
+    <!--p style="border-top:2px solid #888;border-bottom:none;padding-bottom:0px"-->
+    <b>Publications</b><b>.</b>
+  </p>
+  
+  <p style="border:none;white-space:nowrap;padding-top:0px;padding-bottom:0px" >
+    <a href="https://scholar.google.com/citations?user=7QW688MAAAAJ&hl=en">
+      [html (Google Scholar)]</a>
+    &nbsp; 
+    <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/321919">
+      [html (MathSciNet)]</a>    
+  </p>
+  
+  <p style="border:none;white-space:nowrap;padding-top:0px;">
+    <a href="arxiv_list">[html (arxiv)]</a>
+    &nbsp;
+    <a href="http://zbmath.org/?q=ai:zikatanov.ludmil-t">[html (Zentralblatt MATH)]</a>
+    &nbsp; 
+    <!--       <a href="scopus_list">[html (Scopus)]</a>
+	       </p>
+  <p style="border:none;white-space:nowrap;padding-top:0px;">
+    -->
+    <a href="http://www.mathnet.ru/php/person.phtml?option_lang=eng&amp;personid=39886">[html
       (Math-Net.Ru)]</a>
-       </p>
-      </div>
+  </p>
+</div>
 
 <!--div class="xrighty">
 <span id='badgeCont767132' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont767132&amp;mashlet=badge&amp;showTitle=false&amp;className=a&amp;rid=F-9365-2010'></script></span>
