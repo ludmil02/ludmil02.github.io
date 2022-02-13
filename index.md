@@ -58,7 +58,7 @@
 		<b>Software.</b></p> 
 	<p style="border:none;">Together with <a href="http://math.tufts.edu/faculty/xhu/">Xiaozhe
 	  Hu</a> (Tufts) and <a href="http://math.tufts.edu/faculty/jadler">James Adler</a>
-	(Tufts) I am one of the authors of the <a href="https://hazmathteam.github.io/hazmath/"><i>HAZmath: A Simple Finite Element, Graph, and Solver Library</a>,</i> which provides basic finite element and graph routines.</p>
+	(Tufts) I am one of the authors of the <a href="https://hazmathteam.github.io/hazmath/"><i>HAZmath: A Simple Finite Element, Graph, and Solver Library</i> </a> which provides basic finite element and graph routines.</p>
       <p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">
 	<b>Undergraduate research.</b> 
       </p>
