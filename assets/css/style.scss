@@ -2,7 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-/* *{margin:0;padding:0;} */
 *{margin:0}
 *{font-family: helvetica, verdana, times; font-size:1em;}
 
@@ -33,16 +32,14 @@ a:active {color:#0000FF;}  /* selected link */
       .topmater .centry  {float: left; margin: 15px 0px 0px 100px;color:white;font-size:1.25em;font-style:italic}
        .topmatter .righty {float:right;margin:0px 10px 0px 0px}
 
-.alltxt {width:640px;clear: both; padding: 10px 10px 10px 10px;border:none}
+.alltxt {width:100%;clear: both; padding: 10px 10px 10px 10px;border:none}
 	.alltxt .lefty { float: left; width: 115px;}
 	.alltxt .righty { float: right; width: 500px;font-size:1em;}
 	.alltxt .xrighty { float: right; width: 127px;}
 	.alltxt .xlefty { float: left; width: 475px;font-size:1em;font-family:helvetica, verdana, times;}
 	.alltxt p {border-bottom: 2px solid #888;margin:5px 5px 5px 5px; padding:5px 5px 5px 5px}
 
-.xalltxt {width:640px;clear: both; padding: 10px 10px 10px 10px;border-bottom:2px solid red;}
-	.xalltxt .xrighty { float: right; width: 127px;}
-	.xalltxt .xlefty { float: left; width: 500px;font-size:1em;font-family:helvetica, verdana, times;}
+.xalltxt {width:100%;clear: both; padding: 10px 10px 10px 10px;border-bottom:2px solid red;}
+	.xalltxt .xrighty { float: right; width:33%;}
+	.xalltxt .xlefty { float: left; width:67%;font-size:1em;font-family:helvetica, verdana, times;}
 	.xalltxt p {border:none;margin:5px 5px 5px 5px; padding:5px 5px 5px 5px}
-
-#bottom {width:640px;margin-bottom:60px;margin-top:10px; padding:10px 10px 0px 0px; font-size:0.8em;}
