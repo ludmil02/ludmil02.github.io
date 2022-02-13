@@ -33,13 +33,13 @@ a:active {color:#0000FF;}  /* selected link */
        .topmatter .righty {float:right;margin:0px 10px 0px 0px}
 
 .alltxt {width:1024px;clear: both; padding: 10px 10px 10px 10px;border:none}
-	.alltxt .lefty { float: left;}
-	.alltxt .righty { float: right;}
-	.alltxt .xrighty { float: right;}
-	.alltxt .xlefty { float: left;font-size:1em;font-family:helvetica, verdana, times;}
+	.alltxt .lefty { float: left; width:33%}
+	.alltxt .righty { float: right;width:67%}
+	.alltxt .xrighty { float: right;width:67%}
+	.alltxt .xlefty { float: left;width:33%;font-size:1em;font-family:helvetica, verdana, times;}
 	.alltxt p {border-bottom: 2px solid #888;margin:5px 5px 5px 5px; padding:5px 5px 5px 5px}
 
-.xalltxt {width:100%;clear: both; padding: 10px 10px 10px 10px;border-bottom:2px solid red;}
+.xalltxt {width:1024px;clear: both; padding: 10px 10px 10px 10px;border-bottom:2px solid red;}
 	.xalltxt .xrighty { float: right; width:33%;}
 	.xalltxt .xlefty { float: left; width:67%;font-size:1em;font-family:helvetica, verdana, times;}
 	.xalltxt p {border:none;margin:5px 5px 5px 5px; padding:5px 5px 5px 5px}
