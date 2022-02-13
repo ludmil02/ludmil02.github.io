@@ -9,7 +9,7 @@
 
 <div style="width:1024px;">
   <div style="float:left;width:25%;margin: 5px 5px 5px 5px">
-    <img src = "/assets/img/l1_2014.jpg" alt="Ludmil's Picture (2014, Acumuer)"	 style="width:155px" />
+    <img src = "/assets/img/l1_2014.jpg" alt="Ludmil's Picture (2014, Acumuer)"	 style="width:185px" />
   </div>
   <div style="float:left; width:70%;margin: 5px 5px 5px 5px"><p style="border:none;"><b>About me.</b>  Since July 2011, I have been holding a Full Professor position at the <a href="http://www.math.psu.edu/">Department of Mathematics</a>, &nbsp; <a href="http://www.psu.edu/">The Pennsylvania State University</a>. <br/>
       I graduated from the (the site is in Bulgarian) <a href="http://www.pmg-blg.com/">Mathematics High School</a> in Blagoevgrad, Bulgaria (class of 1981).<br/>
