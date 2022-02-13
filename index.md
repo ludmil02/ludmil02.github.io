@@ -7,7 +7,7 @@
   <div style="float:right;margin:0px 10px 0px 0px"><a href="http://ccma.math.psu.edu"><img src="/assets/img/logotoccma.png" alt="CCMA AT PSU"/></a></div>
 </div>
 
-<div>
+<div class="alltxt">
   <div style="float:left; margin: 5px 5px 5px 5px">
     <img src = "/assets/img/l1_2014.jpg" alt="Ludmil's Picture (2014, Acumuer)"	 style="width:124px" />
   </div>
@@ -30,8 +30,8 @@
     and other sciences.
   </p>
 </div>
-  <div class="y"></div>
-  <div class="xlefty">
+ <div class="y"></div>
+ <div class="xlefty">
       	<p style="border:none"><b>Publications.</b></p>
 	<p style="border:none;white-space:nowrap;padding-top:0px;padding-bottom:0px">
 		<a href="https://scholar.google.com/citations?user=7QW688MAAAAJ&hl=en">[html (Google Scholar)]</a>&nbsp;
