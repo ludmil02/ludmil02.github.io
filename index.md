@@ -72,11 +72,11 @@
 <li>2013: Together with <a href="http://math.mit.edu/~urschel/">John C. Urschel</a> we worked with four PSU undergraduate students on <span style="font-style:italic;">&quot;Graph drawing&quot;</span> (with <b>Maureen Gallagher</b> and <b>Colleen Tygh</b>) and on <span style="font-style:italic;">"Monotone schemes for convection diffusion equations"</span> (with <b>Bradley Thompson</b> and <b>Dana Tobin</b>). Descriptions and reports on the research are found at the &nbsp;<a href="http://sites.psu.edu/cmus2013/">web page</a>&nbsp;dedicated to this undergraduate research.</li>
 </ul>
 </div>
+<div style="clear: both; height:4px;border-bottom:6px solid #888;border-top:none"></div>
 <p><b>Contact info.</b>
 	Ludmil Zikatanov, &nbsp;Department of Mathematics, &nbsp;239 McAllister building, &nbsp; Penn State, &nbsp; University Park, PA, 16802<br/>
 	Skype ID: ltz.math &nbsp;<br/>E-mail: &lt;ludmil.math AT  gmail DOT com&gt;
-      </p>
-</div> 
+      </p> 
 <div style="clear: both; height:4px;border-bottom:6px solid #888;border-top:none"></div>
 <div style="float:right;">&copy; <em>Ludmil Zikatanov (1997--)</em></div>
 <!--     -->
