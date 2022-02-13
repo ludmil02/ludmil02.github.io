@@ -31,9 +31,6 @@
     mathematical techniques in hydrogeology, resource economics, physics
     and other sciences.
   </p>
-</div>
-
-<!--
     <div class="xlefty">
       <p style="border:none"><b>Publications</b><b>.</b></p>
       
@@ -45,7 +42,9 @@
 	  [html (MathSciNet)]</a>&nbsp;<a href="arxiv_list">[html (arxiv)]</a>&nbsp;<a href="http://zbmath.org/?q=ai:zikatanov.ludmil-t">[html (Zentralblatt MATH)]</a>&nbsp; 
 	<a href="http://www.mathnet.ru/php/person.phtml?option_lang=eng&amp;personid=39886">[html(Math-Net.Ru)]</a>
       </p>
-      
+	</div>
+</div>
+<!--
       <div class="x"></div>
       
       <p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">
