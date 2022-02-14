@@ -7,7 +7,8 @@ title: arXiv preprint list for Ludmil Zikatanov
 <hr/>
 <p></p>
 <script type="text/javascript"><!--var arxiv_authorid="https://arxiv.org/a/0000-0002-5189-4230";var arxiv_format="arxiv";var arxiv_max_entries=0;var arxiv_includeSummary=0;--></script>
-<script type="text/javascript" src="http://arxiv.org/js/myarticles.js"></script>
+<script type="text/javascript" src="http://arxiv.org/js/myarticles.js">
+</script>
 <div id="arxivfeed">[Loading Ludmil's articles from  arXiv...]</div>
 <hr/>
 <div>
