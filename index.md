@@ -37,7 +37,7 @@ I have attended the <a href="http://www.pmg-blg.com/">Mathematics High School</a
 	<p style="border:none;white-space:nowrap;padding-top:0px;padding-bottom:0px">
 		<a href="https://scholar.google.com/citations?user=7QW688MAAAAJ&hl=en">[Google Scholar]</a>&nbsp;&nbsp;
 	<a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/321919">
-	  [MathSciNet]</a>&nbsp;&nbsp;<a href="arxiv_list">[arXiv]</a>&nbsp;&nbsp;
+	  [MathSciNet]</a>&nbsp;&nbsp;<a href="/arxiv_list">[arXiv]</a>&nbsp;&nbsp;
         <a href="http://zbmath.org/?q=ai:zikatanov.ludmil-t">[Zentralblatt MATH]</a>&nbsp;&nbsp; 
 	 <a href="http://www.mathnet.ru/php/person.phtml?option_lang=eng&amp;personid=39886">[Math-Net.Ru]</a>
 		 </p>
