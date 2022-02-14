@@ -1,4 +1,5 @@
 ---
+permalink: "/arxiv_list/"
 layout: page
 title: arXiv preprint list for Ludmil Zikatanov
 ---
