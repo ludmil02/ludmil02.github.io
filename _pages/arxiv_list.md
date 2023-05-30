@@ -1,9 +1,9 @@
-<!DOCTYPE html>
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-<title>arXiv:preprint list for Ludmil Zikatanov</title>
-</head>
-<body>
+---
+permalink: "/arxiv_list/"
+load_arxiv: true
+layout: page
+title: arXiv preprint list for Ludmil Zikatanov
+---
 <p></p>
 <hr/>
 <p></p>
@@ -25,5 +25,3 @@ var arxiv_includeSummary=0; //[0/1] [don't/do] show abstracts
 <a href="https://ludmil02.github.io/">Back to Ludmil's home page</a>
 </p>
 </div>
-</body>
-</html>
