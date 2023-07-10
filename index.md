@@ -21,7 +21,7 @@ I have attended the <a href="http://www.pmg-blg.com/">Mathematics High School</a
 </div>
 <div style="float:left;width:100%;margin: 0px 0px 0px 0px">	  
   <p>
-    I am working XX in the general area of computational mathematics. My
+    I am working  in the general area of computational mathematics. My
     research is focused on numerical methods for partial differential
     equations; numerical linear algebra; multilevel methods for linear
     systems and optimization; nonlinear approximation tools in compression
