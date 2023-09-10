@@ -39,7 +39,7 @@ I have attended the <a href="http://www.pmg-blg.com/">Mathematics High School</a
 	<a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/321919">
 	  [MathSciNet]</a>&nbsp;&nbsp;<a href="/arxiv_list/">[arXiv]</a>&nbsp;&nbsp;
         <a href="http://zbmath.org/?q=ai:zikatanov.ludmil-t">[Zentralblatt MATH]</a>&nbsp;&nbsp; 
-	 <a href="http://www.mathnet.ru/php/person.phtml?option_lang=eng&amp;personid=39886">[Math-Net.Ru]</a>
+	 <!--a href="http://www.mathnet.ru/php/person.phtml?option_lang=eng&amp;personid=39886">[Math-Net.Ru]</a-->
 		 </p>
       <p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">&nbsp;<br/>
 	 <b>Ph.D. students.</b></p>
