@@ -47,6 +47,9 @@ I have attended the <a href="http://www.pmg-blg.com/">Mathematics High School</a
 	<li>
 	  <b>Current Ph.D. students:</b>&nbsp;Emily Hammett, &nbsp; Zhengqi Liu, &nbsp;Cheng Zuo
 	</li>
+	<li>
+	  <b>Recent Ph.D. graduates:</b>Zhengqi Liu (June 17, 2026), &nbsp;Cheng Zuo (October 7, 2025)
+	</li>
 	<li><b>Former students:</b>&nbsp;A list of the Ph.D. students that I
 	  have advised or co-advised in the past is found on
 	  the <a href="https://genealogy.math.ndsu.nodak.edu/id.php?id=121957&amp;fChrono=1">Mathematics
