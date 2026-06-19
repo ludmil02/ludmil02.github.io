@@ -45,10 +45,10 @@ I have attended the <a href="http://www.pmg-blg.com/">Mathematics High School</a
 	 <b>Ph.D. students.</b></p>
       <ul>
 	<li>
-	  <b>Current Ph.D. students:</b>&nbsp;Emily Hammett, &nbsp; Zhengqi Liu, &nbsp;Cheng Zuo
+	  <b>Current Ph.D. students:</b>&nbsp;Emily Hammett; 
 	</li>
 	<li>
-	  <b>Recent Ph.D. graduates:</b>Zhengqi Liu (June 17, 2026), &nbsp;Cheng Zuo (October 7, 2025)
+	  <b>Recent Ph.D. graduates:</b>&nbsp;Zhengqi Liu (June 17, 2026), &nbsp;Cheng Zuo (October 7, 2025)
 	</li>
 	<li><b>Former students:</b>&nbsp;A list of the Ph.D. students that I
 	  have advised or co-advised in the past is found on
