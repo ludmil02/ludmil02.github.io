@@ -22,6 +22,6 @@ var arxiv_includeSummary=0; //[0/1] [don't/do] show abstracts
 <hr/>
 <div>
 <p>
-<a href="https://ludmil02.github.io/">Back to Ludmil's home page</a>
+<a href="{{ '/' | relative_url }}">Back to Ludmil's home page</a>
 </p>
 </div>
