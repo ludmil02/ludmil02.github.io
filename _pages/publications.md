@@ -7,7 +7,7 @@ title: "Publications — Ludmil T. Zikatanov"
 <style>
 #pubwrap { max-width: 1000px; margin: 0 auto; padding: 0 0.5rem; }
 #pubwrap h1 { margin-bottom: .2rem; }
-.note { color: #555; font-size: .9em; margin: .2rem 0 1rem; }
+.note { color: #333; font-size: .9em; margin: .2rem 0 1rem; }
 .tools { margin: .6rem 0; }
 #q { padding: .35rem .5rem; font-size: 1em; width: min(340px, 100%); }
 .tablewrap { overflow-x: auto; }
@@ -15,21 +15,14 @@ table#pubs { border-collapse: collapse; width: 100%; font-size: .95em; }
 #pubs th, #pubs td { border-bottom: 1px solid #ddd; padding: .5rem .6rem; vertical-align: top; text-align: left; }
 #pubs thead th { background: #f4f4f4; cursor: pointer; user-select: none; white-space: nowrap; position: sticky; top: 0; }
 #pubs thead th:hover { background: #e8e8e8; }
-#pubs thead th::after { content: " \2195"; color: #999; font-size: .85em; }
+#pubs thead th::after { content: " \2195"; color: #555; font-size: .85em; }
 #pubs thead th[aria-sort="ascending"]::after { content: " \25B2"; color: #222; }
 #pubs thead th[aria-sort="descending"]::after { content: " \25BC"; color: #222; }
 #pubs td.num { text-align: right; white-space: nowrap; }
 #pubs tbody tr:hover { background: #fafafa; }
-.au { color: #333; }
+.au { color: #1a1a1a; }
 .ti { font-weight: 600; }
-.vn { color: #666; font-size: .92em; }
-@media (prefers-color-scheme: dark) {
-  #pubs th, #pubs td { border-bottom-color: #444; }
-  #pubs thead th { background: #2a2a2a; }
-  #pubs thead th:hover { background: #333; }
-  #pubs tbody tr:hover { background: #262626; }
-  .au { color: #ccc; } .vn { color: #aaa; } .note { color: #aaa; }
-}
+.vn { color: #444; font-size: .92em; }
 </style>
 
 <div id="pubwrap" markdown="0">
