@@ -80,9 +80,9 @@ I have attended the <a href="http://www.pmg-blg.com/">Mathematics High School</a
       </p>
       <ul>
 	<li>2017-2018:I worked with <b>Kaiyi Wu</b> (PSU student, class of 2018) on adaptive Markov Chain Monte Carlo methods (undergraduate thesis). In addition, <a href="http://katezipp.com/">Dr. Katherine Zipp</a> (Department of Agricultural Economics, Sociology, and Education), Yangqingxiang Wu, Kaiyi, and I collaborated on a research project modeling the migration of invasive aquatic spieces. For more information, please see our <a href="https://doi.org/10.1007/s12076-019-00237-x">article</a> in <i>Letters in Spatial and Resource Sciences.</i></li>
-	<li>2016-2018:	<a href="https://www.linkedin.com/in/tess-russo-7a486532/">Dr. Tess Russo</a> (Global Development Technologies), <a href="http://katezipp.com/">Dr. Katherine Zipp</a>, and I worked with <b>Madeline Nyblade</b> (PSU student, class of 2018), on <span style="font-style:italic;">&quot;Numerical Modeling of Agricultural-Hydrologic Systems.&quot;</span>  Maddy initiated this collaborative work and you can read more details about this project on <a href="https://sites.psu.edu/nyblade/research/modeling-the-agricultural-hydrologic-system-in-punjab-india/">Maddy's website.</a></li>
+	<li>2016-2018:	<a href="https://www.linkedin.com/in/tess-russo-7a486532/">Dr. Tess Russo</a> (Global Development Technologies), <a href="http://katezipp.com/">Dr. Katherine Zipp</a>, and I worked with <b>Madeline Nyblade</b> (PSU student, class of 2018), on <span style="font-style:italic;">&quot;Numerical Modeling of Agricultural-Hydrologic Systems.&quot;</span>  Maddy initiated this collaborative work.<!-- and you can read more details about this project on <a href="https://sites.psu.edu/nyblade/research/modeling-the-agricultural-hydrologic-system-in-punjab-india/">Maddy's website.</a>--></li>
 <li>2014: Research on Efficient algorithms for <span style="font-style:italic;">planar graph drawing</span>
-	  using Tutte embedding with <a href="https://www.linkedin.com/in/laura-san-roman-b44901104/"><b>Laura San Roman</b></a> (PSU student, class of
+	  using Tutte embedding with <b>Laura San Roman</b> (PSU student, class of
 	  2016, co-mentor: J. C. Urschel).</li>
 <li>2013: Together with <a href="http://math.mit.edu/~urschel/">John C. Urschel</a> we worked with four PSU undergraduate students on <span style="font-style:italic;">&quot;Graph drawing&quot;</span> (with <b>Maureen Gallagher</b> and <b>Colleen Tygh</b>) and on <span style="font-style:italic;">"Monotone schemes for convection diffusion equations"</span> (with <b>Bradley Thompson</b> and <b>Dana Tobin</b>). Descriptions and reports on the research are found at the &nbsp;<a href="http://sites.psu.edu/cmus2013/">web page</a>&nbsp;dedicated to this undergraduate research.</li>
 </ul>
@@ -90,7 +90,7 @@ I have attended the <a href="http://www.pmg-blg.com/">Mathematics High School</a
 <div style="clear: both; height:4px;border-bottom:6px solid #888;border-top:none"></div>
 <p><b>Contact info.</b>
 	Ludmil Zikatanov, &nbsp;Department of Mathematics, &nbsp;239 McAllister building, &nbsp; Penn State, &nbsp; University Park, PA, 16802<br/>
-	Skype ID: ltz.math &nbsp;<br/>E-mail: &lt;ludmil.math AT  gmail DOT com&gt;
+	E-mail: &lt;ludmil.math AT  gmail DOT com&gt;
       </p> 
 <div style="clear: both; height:4px;border-bottom:6px solid #888;border-top:none"></div>
 <div style="float:right;">&copy; <em>Ludmil Zikatanov (1997--present)</em></div>
