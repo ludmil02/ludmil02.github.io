@@ -38,7 +38,7 @@ I have attended the <a href="http://www.pmg-blg.com/">Mathematics High School</a
 <a href="{{ '/publications/' | relative_url }}">[Publications]</a>&nbsp;&nbsp;<a href="/arxiv_list/">[arXiv]</a>&nbsp;&nbsp;<!--a href="{{ '/cv/' | relative_url }}">[CV]</a-->
 		 </p>
 	<p style="border:none;white-space:nowrap;padding-top:0px;padding-bottom:0px">
-		<a href="https://scholar.google.com/citations?user=7QW688MAAAAJ&hl=en">[Google Scholar]</a>&nbsp;&nbsp;
+		<a href="https://scholar.google.com/citations?user=7QW688MAAAAJ&amp;hl=en">[Google Scholar]</a>&nbsp;&nbsp;
 	<a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/321919">
 	  [MathSciNet]</a>&nbsp;&nbsp;
         <a href="http://zbmath.org/?q=ai:zikatanov.ludmil-t">[Zentralblatt MATH]</a>&nbsp;&nbsp; 
@@ -70,8 +70,8 @@ I have attended the <a href="http://www.pmg-blg.com/">Mathematics High School</a
 -->
 		<p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">
  &nbsp;<br/>
-	<b>Software.</b>&nbsp;Together with <a href="http://math.tufts.edu/faculty/xhu/">Xiaozhe
-	  Hu</a> (Tufts) and <a href="http://math.tufts.edu/faculty/jadler">James Adler</a>
+	<b>Software.</b>&nbsp;Together with <a href="https://math.tufts.edu/people/faculty/xiaozhe-hu">Xiaozhe
+	  Hu</a> (Tufts) and <a href="https://math.tufts.edu/people/faculty/james-adler">James Adler</a>
 	(Tufts) I am one of the authors of the
 <a href="https://hazmathteam.github.io/hazmath/"><i>HAZmath: A Simple Finite Element, Graph, and Solver Library</i></a>, which provides basic finite element and graph routines.
 	</p>
@@ -80,7 +80,7 @@ I have attended the <a href="http://www.pmg-blg.com/">Mathematics High School</a
       </p>
       <ul>
 	<li>2017-2018:I worked with <b>Kaiyi Wu</b> (PSU student, class of 2018) on adaptive Markov Chain Monte Carlo methods (undergraduate thesis). In addition, <a href="http://katezipp.com/">Dr. Katherine Zipp</a> (Department of Agricultural Economics, Sociology, and Education), Yangqingxiang Wu, Kaiyi, and I collaborated on a research project modeling the migration of invasive aquatic spieces. For more information, please see our <a href="https://doi.org/10.1007/s12076-019-00237-x">article</a> in <i>Letters in Spatial and Resource Sciences.</i></li>
-	<li>2016-2018:	<a href="https://www.linkedin.com/in/tess-russo-7a486532/">Dr. Tess Russo</a> (Global Development Technologies), <a href="http://katezipp.com/">Dr. Katherine Zipp</a>, and I worked with <b>Madeline Nyblade</b> (PSU student, class of 2018), on <span style="font-style:italic;">&quot;Numerical Modeling of Agricultural-Hydrologic Systems.&quot</span>  Maddy initiated this collaborative work and you can read more details about this project on <a href="https://sites.psu.edu/nyblade/research/modeling-the-agricultural-hydrologic-system-in-punjab-india/">Maddy's website.</a></li>
+	<li>2016-2018:	<a href="https://www.linkedin.com/in/tess-russo-7a486532/">Dr. Tess Russo</a> (Global Development Technologies), <a href="http://katezipp.com/">Dr. Katherine Zipp</a>, and I worked with <b>Madeline Nyblade</b> (PSU student, class of 2018), on <span style="font-style:italic;">&quot;Numerical Modeling of Agricultural-Hydrologic Systems.&quot;</span>  Maddy initiated this collaborative work and you can read more details about this project on <a href="https://sites.psu.edu/nyblade/research/modeling-the-agricultural-hydrologic-system-in-punjab-india/">Maddy's website.</a></li>
 <li>2014: Research on Efficient algorithms for <span style="font-style:italic;">planar graph drawing</span>
 	  using Tutte embedding with <a href="https://www.linkedin.com/in/laura-san-roman-b44901104/"><b>Laura San Roman</b></a> (PSU student, class of
 	  2016, co-mentor: J. C. Urschel).</li>
