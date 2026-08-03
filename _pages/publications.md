@@ -175,6 +175,11 @@ Google Scholar's, which counts preprints and non-indexed venues.
 
 <p class="note"><a href="{{ '/arxiv_list/' | relative_url }}">arXiv preprint list</a>
 &nbsp;&middot;&nbsp;<a href="{{ '/' | relative_url }}">Back to Ludmil&rsquo;s home page</a></p>
+
+<p class="note">Created with the help of
+<a href="https://claude.com/claude-code">Claude Code</a> (Anthropic): the table is
+generated from a BibTeX bibliography, with citation counts retrieved from
+<a href="https://openalex.org/">OpenAlex</a>.</p>
 </div>
 
 <script>
