@@ -21,8 +21,8 @@ Department of Mathematics, The Pennsylvania State University, University Park, P
 
 ## Professional experience
 
-- **Program Director**, Computational Mathematics program, Division of Mathematical Sciences (DMS), National Science Foundation, September 2023 – September 2025
 - **Professor**, Department of Mathematics, Penn State, 2011 – present
+- **Program Director**, Computational Mathematics program, Division of Mathematical Sciences (DMS), National Science Foundation, September 2023 – September 2025
 - **Associate Professor**, Department of Mathematics, Penn State, 2007 – 2011
 - **Assistant Professor**, Department of Mathematics, Penn State, 2001 – 2007
 - **Postdoctoral Scholar**, Department of Mathematics, Penn State, 1997 – 2001
