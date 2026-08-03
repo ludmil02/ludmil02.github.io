@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Ludmil T. Zikatanov"
+---
+
 <div style="width:1024px;height:72px;background-color:rgb(0,0,153);padding:10px 0px 0px 0px">
   
   <div style="float:left; margin: 0px 0px 0px 0px"><a href="http://www.psu.edu"><img  src="/assets/img/psu_logo.png" alt="Penn State Mark"/></a></div>
