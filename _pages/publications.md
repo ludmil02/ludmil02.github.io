@@ -34,10 +34,8 @@ table#pubs { border-collapse: collapse; width: 100%; font-size: .95em; }
 
 <div id="pubwrap" markdown="0">
 <h1>Publications</h1>
-<p class="note">113 items &middot; 3301 citations across 111 matched records.
-Click any column heading to sort. Citation counts from
-<a href="https://openalex.org/">OpenAlex</a>, retrieved 3 August 2026; they are lower than
-Google Scholar's, which counts preprints and non-indexed venues.
+<p class="note">113 items. Click any column heading to sort.
+Citation counts from <a href="https://openalex.org/">OpenAlex</a>, retrieved 3 August 2026.
 &ldquo;&mdash;&rdquo; means the record was not found in OpenAlex.</p>
 
 <div class="tools">
