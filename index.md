@@ -35,7 +35,7 @@ I have attended the <a href="http://www.pmg-blg.com/">Mathematics High School</a
  <div style="width:100%;float:left; margin: 5px 5px 5px 5px">
       	<!--p style="border:none">&nbsp;<br/><b>Publications.</b></p-->
 	<p style="border:none;white-space:nowrap;padding-top:0px;padding-bottom:0px">
-<a href="{{ '/publications/' | relative_url }}">[Publications]</a>&nbsp;&nbsp;<a href="/arxiv_list/">[arXiv]</a>&nbsp;&nbsp;<a href="{{ '/cv/' | relative_url }}">[CV]</a>&nbsp;&nbsp;
+<a href="{{ '/publications/' | relative_url }}">[Publications]</a>&nbsp;&nbsp;<a href="/arxiv_list/">[arXiv]</a>&nbsp;&nbsp;<!--a href="{{ '/cv/' | relative_url }}">[CV]</a-->
 		 </p>
 	<p style="border:none;white-space:nowrap;padding-top:0px;padding-bottom:0px">
 		<a href="https://scholar.google.com/citations?user=7QW688MAAAAJ&hl=en">[Google Scholar]</a>&nbsp;&nbsp;
@@ -53,16 +53,21 @@ I have attended the <a href="http://www.pmg-blg.com/">Mathematics High School</a
 	<li>
 	  <b>Recent Ph.D. graduates:</b>&nbsp;Zhengqi Liu (June 17, 2026), &nbsp;Cheng Zuo (October 7, 2025)
 	</li>
-	<li><b>Former students:</b>&nbsp;A list of the Ph.D. students that I
-	  have advised or co-advised in the past is found on
+	<li><b>Former students:</b>&nbsp;Ph.D. students I have advised or
+	  co-advised earlier are listed on
 	  the <a href="https://genealogy.math.ndsu.nodak.edu/id.php?id=121957&amp;fChrono=1">Mathematics
 	    Genealogy Project</a>.
 	</li>
       </ul>
+<!-- CONFERENCES: uncomment this block and edit to list upcoming conferences.
+     Add one entry per conference, e.g.
+     <a href="URL">Conference name</a> &nbsp;(dates, venue).
+
 	<p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">
  &nbsp;<br/>
 	<b>Conferences:</b>&nbsp;<a href="https://sites.google.com/gcloud.utah.edu/nsfcompmath-meeting-2025/home">NSF Comp Math PI meeting</a> &nbsp;(May 8 - May 9, 2025 at the University of Utah).
 	</p>
+-->
 		<p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">
  &nbsp;<br/>
 	<b>Software.</b>&nbsp;Together with <a href="http://math.tufts.edu/faculty/xhu/">Xiaozhe

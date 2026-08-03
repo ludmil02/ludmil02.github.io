@@ -2,8 +2,10 @@
 permalink: "/cv/"
 layout: default
 title: "Curriculum Vitae — Ludmil T. Zikatanov"
+published: false
 ---
 
+<!--
 # Curriculum Vitae
 
 **Ludmil T. Zikatanov**<br/>
@@ -119,3 +121,4 @@ Research grants, most recent first:
 <hr/>
 
 <p><a href="{{ '/' | relative_url }}">Back to Ludmil&rsquo;s home page</a></p>
+-->
