@@ -38,6 +38,9 @@ table#pubs { border-collapse: collapse; width: 100%; font-size: .95em; }
 Citation counts from <a href="https://openalex.org/">OpenAlex</a>, retrieved 3 August 2026.
 &ldquo;&mdash;&rdquo; means the record was not found in OpenAlex.</p>
 
+<p class="note"><a href="{{ '/arxiv_list/' | relative_url }}">arXiv preprint list</a>
+&nbsp;&middot;&nbsp;<a href="{{ '/' | relative_url }}">Back to Ludmil&rsquo;s home page</a></p>
+
 <div class="tools">
   <input id="q" type="search" placeholder="Filter by author, title or year&hellip;" aria-label="Filter publications">
   <span id="count" class="note"></span>
