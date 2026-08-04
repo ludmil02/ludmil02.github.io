@@ -1,12 +1,12 @@
 ---
-layout: home_md
+layout: home
 title: "Ludmil T. Zikatanov"
 ---
 
-[![Penn State Mark](/assets/img/psu_logo.png)](http://www.psu.edu) *Welcome to Ludmil's home page* [![CCMA AT PSU](/assets/img/logotoccma.png)](http://ccma.math.psu.edu)
+[![Penn State Mark]({{ '/assets/img/psu_logo.png' | relative_url }})](http://www.psu.edu) *Welcome to Ludmil's home page* [![CCMA AT PSU]({{ '/assets/img/logotoccma.png' | relative_url }})](http://ccma.math.psu.edu)
 {: .banner}
 
-![Ludmil's Picture (2022, Holmenkollen)](/assets/img/l1_2022.png)
+![Ludmil's Picture (2022, Holmenkollen)]({{ '/assets/img/l1_2022.png' | relative_url }})
 {: .portrait}
 
 **About me.** Since July 2011, I have been holding a Full Professor position at the [Department of Mathematics](http://www.math.psu.edu/), [The Pennsylvania State University](http://www.psu.edu/).  
@@ -20,7 +20,7 @@ I am working in the general area of computational mathematics. My research is fo
 ---
 {: .thick}
 
-[[Publications]]({{ '/publications/' | relative_url }}) &nbsp;&nbsp; [[arXiv]](/arxiv_list/)
+[[Publications]]({{ '/publications/' | relative_url }}) &nbsp;&nbsp; [[arXiv]]({{ '/arxiv_list/' | relative_url }})
 {: .links}
 
 [[Google Scholar]](https://scholar.google.com/citations?user=7QW688MAAAAJ&hl=en) &nbsp;&nbsp; [[MathSciNet]](https://mathscinet.ams.org/mathscinet/MRAuthorID/321919) &nbsp;&nbsp; [[Zentralblatt MATH]](http://zbmath.org/?q=ai:zikatanov.ludmil-t)
