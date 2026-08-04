@@ -1,106 +1,68 @@
 ---
-layout: default
+layout: home_md
 title: "Ludmil T. Zikatanov"
 ---
 
-<div style="width:1024px;height:72px;background-color:rgb(0,0,153);padding:10px 0px 0px 0px">
-  
-  <div style="float:left; margin: 0px 0px 0px 0px"><a href="http://www.psu.edu"><img  src="/assets/img/psu_logo.png" alt="Penn State Mark"/></a></div>
-  
-  <div style="float: left; margin: 15px 0px 0px 50px;color:white;font-size:1.25em;font-style:italic">Welcome to Ludmil's home page</div>
+[![Penn State Mark](/assets/img/psu_logo.png)](http://www.psu.edu) *Welcome to Ludmil's home page* [![CCMA AT PSU](/assets/img/logotoccma.png)](http://ccma.math.psu.edu)
+{: .banner}
 
-  <div style="float:right;margin:0px 10px 0px 0px"><a href="http://ccma.math.psu.edu"><img src="/assets/img/logotoccma.png" alt="CCMA AT PSU"/></a></div>
-</div>
+![Ludmil's Picture (2022, Holmenkollen)](/assets/img/l1_2022.png)
+{: .portrait}
 
-<div style="width:1024px;">
-  <div style="float:left;width:16%;margin: 5px 5px 5px 5px">
-    <img src = "/assets/img/l1_2022.png" alt="Ludmil's Picture (2022, Holmenkollen)"	 style="width:155px" />
-  </div>
-  <div style="float:left; width:80%;margin: 5px 5px 5px 5px"><p style="border:none;"><b>About me.</b>
-Since July 2011, I have been holding a Full Professor position at the <a href="http://www.math.psu.edu/">Department of Mathematics</a>, &nbsp; <a href="http://www.psu.edu/">The Pennsylvania State University</a>.
-<br/>
-I received my Ph.D. degree in Mathematics from <a href="https://www.fmi.uni-sofia.bg/en">Sofia University &quot;St. Kliment Ohridski&quot;</a> in Sofia, Bulgaria.
-<br/>
-I have attended the <a href="http://www.pmg-blg.com/">Mathematics High School</a> in Blagoevgrad, Bulgaria (class of 1981; the site is in Bulgarian).
-</p>
-</div>
-<div style="float:left;width:100%;margin: 0px 0px 0px 0px">	  
-  <p>
-    I am working  in the general area of computational mathematics. My
-    research is focused on numerical methods for partial differential
-    equations; numerical linear algebra; multilevel methods for linear
-    systems and optimization; nonlinear approximation tools in compression
-    of data and machine learning; and the applications of such
-    mathematical techniques in hydrogeology, resource economics, physics
-    and other sciences.
-  </p>	  
-</div>
-<p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">
- <div style="clear: both; height:4px;border-bottom:6px solid #888;border-top:none"></div>
- <div style="width:100%;float:left; margin: 5px 5px 5px 5px">
-      	<!--p style="border:none">&nbsp;<br/><b>Publications.</b></p-->
-	<p style="border:none;white-space:nowrap;padding-top:0px;padding-bottom:0px">
-<a href="{{ '/publications/' | relative_url }}">[Publications]</a>&nbsp;&nbsp;<a href="/arxiv_list/">[arXiv]</a>&nbsp;&nbsp;<!--a href="{{ '/cv/' | relative_url }}">[CV]</a-->
-		 </p>
-	<p style="border:none;white-space:nowrap;padding-top:0px;padding-bottom:0px">
-		<a href="https://scholar.google.com/citations?user=7QW688MAAAAJ&amp;hl=en">[Google Scholar]</a>&nbsp;&nbsp;
-	<a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/321919">
-	  [MathSciNet]</a>&nbsp;&nbsp;
-        <a href="http://zbmath.org/?q=ai:zikatanov.ludmil-t">[Zentralblatt MATH]</a>&nbsp;&nbsp; 
-	 <!--a href="http://www.mathnet.ru/php/person.phtml?option_lang=eng&amp;personid=39886">[Math-Net.Ru]</a-->
-		 </p>
-      <p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">&nbsp;<br/>
-	 <b>Ph.D. students.</b></p>
-      <ul>
-	<li>
-	  Current Ph.D. students:&nbsp;<b>Emily Hammett</b>; 
-	</li>
-	<li>
-	  Recent Ph.D. graduates:&nbsp;<b>Zhengqi Liu</b> (June 17, 2026), &nbsp;<b>Cheng Zuo</b> (October 7, 2025)
-	</li>
-	<li>Former students:&nbsp;Ph.D. students I have advised or
-	  co-advised earlier are listed on
-	  the <a href="https://genealogy.math.ndsu.nodak.edu/id.php?id=121957&amp;fChrono=1">Mathematics
-	    Genealogy Project</a>.
-	</li>
-      </ul>
+**About me.** Since July 2011, I have been holding a Full Professor position at the [Department of Mathematics](http://www.math.psu.edu/), [The Pennsylvania State University](http://www.psu.edu/).  
+I received my Ph.D. degree in Mathematics from [Sofia University "St. Kliment Ohridski"](https://www.fmi.uni-sofia.bg/en) in Sofia, Bulgaria.  
+I have attended the [Mathematics High School](http://www.pmg-blg.com/) in Blagoevgrad, Bulgaria (class of 1981; the site is in Bulgarian).
+{: .about}
+
+I am working in the general area of computational mathematics. My research is focused on numerical methods for partial differential equations; numerical linear algebra; multilevel methods for linear systems and optimization; nonlinear approximation tools in compression of data and machine learning; and the applications of such mathematical techniques in hydrogeology, resource economics, physics and other sciences.
+{: .clear}
+
+---
+{: .thick}
+
+[[Publications]]({{ '/publications/' | relative_url }}) &nbsp;&nbsp; [[arXiv]](/arxiv_list/)
+{: .links}
+
+[[Google Scholar]](https://scholar.google.com/citations?user=7QW688MAAAAJ&hl=en) &nbsp;&nbsp; [[MathSciNet]](https://mathscinet.ams.org/mathscinet/MRAuthorID/321919) &nbsp;&nbsp; [[Zentralblatt MATH]](http://zbmath.org/?q=ai:zikatanov.ludmil-t)
+{: .links}
+
+---
+
+**Ph.D. students.**
+
+- Current Ph.D. students: **Emily Hammett**;
+- Recent Ph.D. graduates: **Zhengqi Liu** (June 17, 2026), **Cheng Zuo** (October 7, 2025)
+- Former students: Ph.D. students I have advised or co-advised earlier are listed on the [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/id.php?id=121957&fChrono=1).
+
 <!-- CONFERENCES: uncomment this block and edit to list upcoming conferences.
-     Add one entry per conference, e.g.
-     <a href="URL">Conference name</a> &nbsp;(dates, venue).
+     Add one entry per conference, e.g.  [Conference name](URL) (dates, venue).
 
-	<p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">
- &nbsp;<br/>
-	<b>Conferences:</b>&nbsp;<a href="https://sites.google.com/gcloud.utah.edu/nsfcompmath-meeting-2025/home">NSF Comp Math PI meeting</a> &nbsp;(May 8 - May 9, 2025 at the University of Utah).
-	</p>
+---
+
+**Conferences:** [NSF Comp Math PI meeting](https://sites.google.com/gcloud.utah.edu/nsfcompmath-meeting-2025/home) (May 8 - May 9, 2025 at the University of Utah).
 -->
-		<p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">
- &nbsp;<br/>
-	<b>Software.</b>&nbsp;Together with <a href="https://math.tufts.edu/people/faculty/xiaozhe-hu">Xiaozhe
-	  Hu</a> (Tufts) and <a href="https://math.tufts.edu/people/faculty/james-adler">James Adler</a>
-	(Tufts) I am one of the authors of the
-<a href="https://hazmathteam.github.io/hazmath/"><i>HAZmath: A Simple Finite Element, Graph, and Solver Library</i></a>, which provides basic finite element and graph routines.
-	</p>
-      <p style="border-top:2px solid #888;border-bottom:none;font-size:1em;">&nbsp;<br/>
-	<b>Undergraduate research.</b> 
-      </p>
-      <ul>
-	<li>2017-2018:I worked with <b>Kaiyi Wu</b> (PSU student, class of 2018) on adaptive Markov Chain Monte Carlo methods (undergraduate thesis). In addition, <a href="http://katezipp.com/">Dr. Katherine Zipp</a> (Department of Agricultural Economics, Sociology, and Education), Yangqingxiang Wu, Kaiyi, and I collaborated on a research project modeling the migration of invasive aquatic spieces. For more information, please see our <a href="https://doi.org/10.1007/s12076-019-00237-x">article</a> in <i>Letters in Spatial and Resource Sciences.</i></li>
-	<li>2016-2018:	<a href="https://www.linkedin.com/in/tess-russo-7a486532/">Dr. Tess Russo</a> (Global Development Technologies), <a href="http://katezipp.com/">Dr. Katherine Zipp</a>, and I worked with <b>Madeline Nyblade</b> (PSU student, class of 2018), on <span style="font-style:italic;">&quot;Numerical Modeling of Agricultural-Hydrologic Systems.&quot;</span>  Maddy initiated this collaborative work.<!-- and you can read more details about this project on <a href="https://sites.psu.edu/nyblade/research/modeling-the-agricultural-hydrologic-system-in-punjab-india/">Maddy's website.</a>--></li>
-<li>2014: Research on Efficient algorithms for <span style="font-style:italic;">planar graph drawing</span>
-	  using Tutte embedding with <b>Laura San Roman</b> (PSU student, class of
-	  2016, co-mentor: J. C. Urschel).</li>
-<li>2013: Together with <a href="http://math.mit.edu/~urschel/">John C. Urschel</a> we worked with four PSU undergraduate students on <span style="font-style:italic;">&quot;Graph drawing&quot;</span> (with <b>Maureen Gallagher</b> and <b>Colleen Tygh</b>) and on <span style="font-style:italic;">"Monotone schemes for convection diffusion equations"</span> (with <b>Bradley Thompson</b> and <b>Dana Tobin</b>). Descriptions and reports on the research are found at the &nbsp;<a href="http://sites.psu.edu/cmus2013/">web page</a>&nbsp;dedicated to this undergraduate research.</li>
-</ul>
-</div>
-<div style="clear: both; height:4px;border-bottom:6px solid #888;border-top:none"></div>
-<p><b>Contact info.</b>
-	Ludmil Zikatanov, &nbsp;Department of Mathematics, &nbsp;239 McAllister building, &nbsp; Penn State, &nbsp; University Park, PA, 16802<br/>
-	E-mail: &lt;ludmil.math AT  gmail DOT com&gt;
-      </p> 
-<div style="clear: both; height:4px;border-bottom:6px solid #888;border-top:none"></div>
-<div style="float:right;">&copy; <em>Ludmil Zikatanov (1997--present)</em></div>
-<!--     -->
 
+---
 
+**Software.** Together with [Xiaozhe Hu](https://math.tufts.edu/people/faculty/xiaozhe-hu) (Tufts) and [James Adler](https://math.tufts.edu/people/faculty/james-adler) (Tufts) I am one of the authors of the [*HAZmath: A Simple Finite Element, Graph, and Solver Library*](https://hazmathteam.github.io/hazmath/), which provides basic finite element and graph routines.
 
+---
 
+**Undergraduate research.**
+
+- 2017-2018: I worked with **Kaiyi Wu** (PSU student, class of 2018) on adaptive Markov Chain Monte Carlo methods (undergraduate thesis). In addition, [Dr. Katherine Zipp](http://katezipp.com/) (Department of Agricultural Economics, Sociology, and Education), Yangqingxiang Wu, Kaiyi, and I collaborated on a research project modeling the migration of invasive aquatic spieces. For more information, please see our [article](https://doi.org/10.1007/s12076-019-00237-x) in *Letters in Spatial and Resource Sciences.*
+- 2016-2018: [Dr. Tess Russo](https://www.linkedin.com/in/tess-russo-7a486532/) (Global Development Technologies), [Dr. Katherine Zipp](http://katezipp.com/), and I worked with **Madeline Nyblade** (PSU student, class of 2018), on *"Numerical Modeling of Agricultural-Hydrologic Systems."* Maddy initiated this collaborative work.
+- 2014: Research on Efficient algorithms for *planar graph drawing* using Tutte embedding with **Laura San Roman** (PSU student, class of 2016, co-mentor: J. C. Urschel).
+- 2013: Together with [John C. Urschel](http://math.mit.edu/~urschel/) we worked with four PSU undergraduate students on *"Graph drawing"* (with **Maureen Gallagher** and **Colleen Tygh**) and on *"Monotone schemes for convection diffusion equations"* (with **Bradley Thompson** and **Dana Tobin**). Descriptions and reports on the research are found at the [web page](http://sites.psu.edu/cmus2013/) dedicated to this undergraduate research.
+
+---
+{: .thick}
+
+**Contact info.** Ludmil Zikatanov, Department of Mathematics, 239 McAllister building, Penn State, University Park, PA, 16802  
+E-mail: &lt;ludmil.math AT gmail DOT com&gt;
+
+---
+{: .thick}
+
+&copy; *Ludmil Zikatanov (1997\-\-present)*
+{: .copyright}
