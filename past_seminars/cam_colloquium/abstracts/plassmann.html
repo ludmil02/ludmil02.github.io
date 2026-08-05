@@ -1,0 +1,43 @@
+<HTML>
+<HEAD>
+   <TITLE>Abstract</TITLE>
+</HEAD>
+<BODY>
+<H1 ALIGN=CENTER>Scalable unstructured mesh algorithms and implementations</H1>
+
+<P ALIGN=CENTER>
+<A HREF="//www.mcs.anl.gov/home/plassman/">Paul Plassmann</A><BR>
+Department of Computer Science and Engineering<BR>
+Penn State
+</P>
+
+<P>
+<STRONG>Abstract:</STRONG>
+Unstructured meshes are a powerful computational tool used in the
+numerical modeling of physical phenomena on complex, irregular domains.
+Instead of requiring a uniform distribution of grid points, unstructured
+meshes allow grid points to be strategically placed in the computational
+domain.  Thus, these meshes are particularly effective in modeling
+irregular boundaries, multiscale geometries, and rapidly changing
+solutions.
+
+The use of these meshes on parallel machines has been limited because
+of the number of diverse tasks that must be accomplished in a scalable
+manner to use this approach effectively.  These tasks include the
+generation, adaptive refinement, quality improvement, and partitioning
+of the unstructured mesh.  In addition, many applications require the
+assembly and solution of large, sparse linear systems.
+
+In this talk, we describe new parallel algorithms for these tasks and
+discuss the vertical intergration of software for accomplishing these
+tasks as part of the <A HREF="http://www.mcs.anl.gov/sumaa3d/">SUMAA3d
+project</A>.  We present a P-RAM analysis showing the scalability of a
+strategy based on computation on independent sets.  Experimental results
+obtained on a diverse set of parallel architectures, including the IBM
+SP and ATM-connected networks of workstations, are discussed.  Finally,
+we compare the parallel performance of the two- and three-dimensional
+versions of these algorithms from the point of view of scalability and
+computational efficiency.
+</P>
+</BODY>
+</HTML>
