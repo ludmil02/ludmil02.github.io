@@ -1,0 +1,48 @@
+<ul>
+<li>James Adler (Tufts University, USA)</li>
+<li>Immanuel Anjam (University of Jyvaskyla, Finland)</li>
+<li>Emanouil Atanasov (IICT, Bulgarian Academy of Sciences)</li>
+<li>Owe Axelsson (Institute of Geonics,ASCR, Czech Republic)</li>
+<li>Blanca Ayuso de Dios (Centre de Recerca Matematica, Spain)</li>
+<li>Constantin Bacuta (University of Delaware, USA)</li>
+<li>Thomas Benson (Tufts University, USA)</li>
+<li>Gergana Bentcheva (IICT, Bulgarian Academy of Sciences)</li>
+<li>James Brannick (Penn State University, USA)</li>
+<li>Fei Cao</li>
+<li>Carsten Carstensen (Humboldt Universitaet, Germany)</li>
+<li>Panagiotis Chatzipantelidis (University of Crete, Greece)</li>
+<li>Ivan T. Dimov (IICT, Bulgarian Academy of Sciences)</li>
+<li>Stefka N. Dimova (Sofia University St. Kl. Ohridski, Bulgaria)</li>
+<li>David Emerson (Tufts University, USA)</li>
+<li>Krassimir T. Georgiev (IICT, Bulgarian Academy of Sciences)</li>
+<li>Ivan G. Georgiev (IMI, Bulgarian Academy of Sciences)</li>
+<li>Jay Gopalakrishnan (Portland State University, USA)</li>
+<li>Gundolf Haase (University of Graz, Austria)</li>
+<li>Clemens Hofreiter (Johannes Kepler University, Austria)</li>
+<li>Qingguo Hong (RICAM, Austrian Academy of Sciences)</li>
+<li>Xiaozhe Hu (Penn State University, USA)</li>
+<li>Oleg P. Iliev (Fraunhofer ITWM, Germany)</li>
+<li>Ivan Ivanov (Texas A &amp; M University)</li>
+<li>Nikola Kosturski (IICT, Bulgarian Academy of Sciences)</li>
+<li>Johannes Kraus (RICAM, Austrian Academy of Sciences)</li>
+<li>Ulrich Langer (Johannes Kepler University, Austria)</li>
+<li>Raytcho D. Lazarov (Texas A &amp; M University, USA)</li>
+<li>Ivan D. Lirkov (IICT, Bulgarian Academy of Sciences)</li>
+<li>Maria Lymbery (IICT, Bulgarian Academy of Sciences)</li>
+<li>Svetozar D. Margenov (IICT, Bulgarian Academy of Sciences)</li>
+<li>Peter D. Minev (University of Alberta, Canada)</li>
+<li>Joseph Pasciak (Texas A &amp; M University, USA)</li>
+<li>Dirk Pauly (Universitat Duisburg-Essen, Germany)</li>
+<li>Blagovest Sendov (Bulgarian Academy of Sciences)</li>
+<li>Rosangela Sviercoski (IICT, Bulgarian Academy of Sciences)</li>
+<li>Vidar Thomee (Chalmers University of Technology, Sweden)</li>
+<li>Petr Vabishchevich (Nuclear Safety Institute, Russian Academy of Sciences)</li>
+<li>Luben Valkov (Russe University "Angel Kanchev", Bulgaria)</li>
+<li>Panayot S. Vassilevski (CASC, Lawrence Livermore National Lab, USA)</li>
+<li>Umberto Villa (Lawrence Livermore National Lab, USA)</li>
+<li>Yavor Vutov (IICT, Bulgarian Academy of Sciences)</li>
+<li>Steffen Weisser (Saarland University, Germany)</li>
+<li>Joerg Willems (RICAM, Austrian Academy of Sciences)</li>
+<li>Irwin Yousept (TU Darmstadt, Germany)</li>
+<li>Ludmil T. Zikatanov (Penn State University, USA)</li>
+</ul>

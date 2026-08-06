@@ -56,6 +56,12 @@ I am working in the general area of computational mathematics. My research is fo
 - 2013: Together with [John C. Urschel](http://math.mit.edu/~urschel/) we worked with four PSU undergraduate students on *"Graph drawing"* (with **Maureen Gallagher** and **Colleen Tygh**) and on *"Monotone schemes for convection diffusion equations"* (with **Bradley Thompson** and **Dana Tobin**). Descriptions and reports on the research are found at the [web page](http://sites.psu.edu/cmus2013/) dedicated to this undergraduate research.
 
 ---
+
+**Past seminars and meetings.**
+
+- [Symposium in honor of Raytcho Lazarov's 70 (Sozopol, Bulgaria, June 7-8, 2013)]({{ '/Raytcho_2013/' | relative_url }}).
+
+---
 {: .thick}
 
 **Contact info.** Ludmil Zikatanov, Department of Mathematics, 239 McAllister building, Penn State, University Park, PA, 16802  
