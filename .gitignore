@@ -6,3 +6,6 @@ Gemfile.lock
 *~
 .DS_Store
 
+
+# temporary source copy for the past_seminars restoration (not part of the site)
+ltz1_pass/

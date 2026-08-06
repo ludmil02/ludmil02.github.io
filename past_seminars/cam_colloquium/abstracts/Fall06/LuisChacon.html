@@ -1,0 +1,35 @@
+<b> 
+On fully implicit methods for extended magnetohydrodynamics
+</b>
+<p>
+Luis Chacon
+<br>
+<br>LANL
+<p>
+<p>
+
+Magnetohydrodynamics (MHD) describes the behavior of charged hot gases
+(plasmas) in the presence of electromagnetic fields, and is a crucial
+tool for the understanding of solar, space, and laboratory
+(e.g. thermonuclear fusion) plasmas.
+<p>
+Mathematically, MHD is a hyperbolic PDE system which supports various
+fast waves. In its basic form (single fluid), these waves are linear
+($\omega \sim k$). However, in extended (or two-fluid) MHD models
+(XMHD), these waves become dispersive ($\omega \sim k^2$). The
+numerical stiffness associated with such waves present severe
+challenges for the efficient and accurate numerical integration of MHD
+phenomena over long frequencies.
+<p>
+In this talk, we describe our discretization/solver strategy to
+address such challenges. Spatially, we employ a novel second-order
+finite-volume strategy which is cell-centered, conservative, stable
+linearly and nonlinearly, and suitable for general curvilinear
+geometries. Temporally, we employ Newton-Krylov-based fully implicit
+methods for robustness, efficiency, and accuracy. A crucial aspect of
+our approach is a novel preconditioning strategy, which we term
+"physics-based". It is based on a Schur complement treatment of the
+semi-discrete MHD equations, which in turn renders the linearized MHD
+system well conditioned for the use of classical multilevel
+techniques, thereby resulting in an optimal, scalable MHD solver.
+

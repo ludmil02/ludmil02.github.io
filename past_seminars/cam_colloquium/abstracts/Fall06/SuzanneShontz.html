@@ -1,0 +1,43 @@
+<b> 
+OOptimization Techniques for Mesh Warping and Nonlinear Elasticity 
+
+</b>
+<p>
+Suzanne Shontz<br>
+<br>Department of Computer Science and Engineering 
+<br>Penn State University
+<p>
+<p>
+This talk will address two recent moving mesh problems from my research 
+in the areas of mesh warping and nonlinear elasticity.
+
+<p>
+
+In the first part of my talk, I will describe a mesh warping problem of 
+interest.  The process of warping a mesh from a source to a target domain 
+can potentially drastically alter the quality of the mesh from step to 
+step.  One problem that can occur is element reversal, which is when an 
+element changes its orientation.  We consider an algorithm called FEMWARP 
+for warping tetrahedral finite element meshes that computes the warping 
+using the finite element method itself.  Our main concern is when this 
+algorithm reverses elements.  We analyze the causes for this undesirable 
+behavior and propose techniques to make the method more robust against 
+reversals.  Among the methods includes combining FEMWARP with an 
+optimization-based untangler.  We will also demonstrate the applicability 
+of FEMWARP to cardiology.
+
+<p>
+
+n the second part of my talk, I will propose a solution procedure for the 
+finite element discretization of a hyperelastic solid with large boundary 
+deformation.  Mesh tangling is again an issue for straightforward 
+algorithms.  Our algorithm first untangles the mesh and then uses a 
+constrained Newton-type method to avoid further tangling.  Our 
+computational results indicate significant improvements over the 
+straightforward Newton-continuation procedure.
+
+<p>
+
+Part of this talk represents joint work with S. Vavasis of the University 
+of Waterloo. 
+

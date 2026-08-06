@@ -1,0 +1,53 @@
+<HTML>
+<HEAD>
+   <TITLE>Abstract</TITLE>
+</HEAD>
+<BODY>
+<H1 ALIGN=CENTER>
+Reducing the Cost of Krylov Subspace Methods:
+Inexact and Truncated Versions
+
+</H1>
+
+<P ALIGN=CENTER>
+Daniel B. Szyld </A> <BR>
+<BR>Temple University, Philadelphia
+<BR>
+</P>
+
+<P></P>
+<STRONG>Abstract:</STRONG>
+<P> Krylov subspace methods such as GMRES are extensively
+used for the solution of (preconditioned) linear equations,
+especially those arising from discretization of differential
+equations.
+Often, because of the size of the problem, one cannot use the
+full (orthogonal) basis of the Krylov subspace. It is common to use
+restarted methods, and these work well sometimes, but not other times.
+We present two alternatives: inexact and truncated versions.
+In inexact Krylov subspace methods, the matrix vector product
+Av is replaced by (A+E)v, where E is some error matrix.
+Using a computable criterion,
+this error can be monitored, relaxing the accuracy of the
+matrix-vector product as the method progresses.
+One particular application is dynamically adapted inexact additive 
+Schwarz
+preconditioners, where the convergence tolerance of the local solves 
+are adapted as the overall procedure advances. 
+Large computational savings can be obtained with this approach.
+
+
+Alternatively, one can contain the cost of the methods by
+orthogonalizing only with respect to a fixed number of
+previous vectors.
+Our analysis confirms the
+ observed fact that the orthogonality of the basis is not
+important, only the need to maintain linear independence is.
+Numerical examples illustrate our theoretical results.
+
+
+(This is a joint work with V.Simoncini, University of Bologna)
+</P>
+</BODY>
+</HTML>
+

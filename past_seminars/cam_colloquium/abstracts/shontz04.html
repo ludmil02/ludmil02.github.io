@@ -1,0 +1,52 @@
+<HTML>
+<HEAD>
+   <TITLE>Abstract</TITLE>
+</HEAD>
+<BODY>
+<H1 ALIGN=CENTER>
+Algorithms for mesh warping with applications to cardiology
+</H1>
+
+<P ALIGN=CENTER>
+Suzanne Shontz  </A> <BR>
+<BR>Cornell University
+<BR>
+</P>
+
+<P></P>
+<STRONG>Abstract:</STRONG>
+<P>
+Moving meshes arise in cardiology, computer graphics, animation, and
+crash simulation, among other applications in science and engineering.
+With moving meshes, the mesh is updated at each step in time due to a
+moving domain boundary, thus resulting in potentially drastically
+varying mesh quality from step to step.  One problem that can occur at
+each timestep is element inversion.  Our focus is on the development of
+mesh warping algorithms that maintain good mesh quality at each timestep.
+
+We have developed several different algorithms for the warping of
+tetrahedral meshes.  These methods are based upon weighted Laplacian
+smoothing, the finite element method, quadratic programming, and linear
+elasticity.  We start with a 3D domain which is bounded by a triangulated
+surface mesh and has a tetrahedral volume mesh as its interior.  We then
+suppose that a movement of the surface mesh is prescribed and use any of
+our mesh warping algorithms to update the nodes of the volume mesh.  Each
+method determines a set of local weights for each interior node which
+describe the relative positions of the node to each of its neighbors.
+After a boundary transformation is applied, the method solves a system of
+linear equations based upon the weights and the new boundary positions to
+determine the final positions of the interior nodes.
+
+We study mesh invertibility and prove a theorem which gives sufficient
+conditions for a mesh to resist inversion by a transformation.  Our
+theory shows that two of our methods yield exact results for affine
+mappings, and we state a conjecture for more general mappings.  In
+addition, our theory ensures that the same methods yield the mesh to
+which both the local weighted laplacian smoothing algorithm and the
+Gauss-Seidel algorithm for linear systems converge.  We test the
+robustness of our methods and present some numerical results.  Finally,
+we use our algorithm to study the movement of the beating canine heart.
+</P>
+</BODY>
+</HTML>
+

@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+  <head>
+    <title></title>
+  </head>
+
+  <body>
+    <h1>  Backward Error Compensation for Transportation Equations
+         with Application to the Level Set Method <br>
+      Yingjie Liu - Georgia Institute of Technology
+ </h1>
+
+<p>
+Level set method uses a level set function, usually an approximate
+signed distance function, Phi, to represent the interface as the zero set of
+Phi. When Phi is advanced to the next time level by a transportation equation,
+its new zero level set will represent the new interface position. We update
+the level set function Phi forward in time and then backward to get another
+copy of the level set function, say Phi_1. Phi_1 and Phi should have been
+equal if there were no numerical error. Therefore Phi-Phi_1 provides us the
+information of error and this information can be used to compensate Phi
+before updating Phi forward again in time. One nice property is that it has
+the convenience of possibly improving the temporal and spatial order of an
+odd order scheme simultaneously. We found that when applying this idea to
+semi-Lagrangian schemes, e.g., CIR scheme(which has no CFL restriction, a
+nice feature for local refinement), the property is still valid (while
+MacCormack scheme having similar property may not be easily applied here).
+Numerical results for interface movements with level set equation computed
+by the new methods will be presented in the talk. Also I would like show some
+interesting theoretical results for applying this idea to a general linear
+scheme.
+
+
+
+
+
+</p>
+
+
+  </body>
+</html>
+
+
+
+
+

@@ -1,0 +1,53 @@
+<HTML>
+<HEAD>
+   <TITLE>Abstract</TITLE>
+</HEAD>
+<BODY>
+<H1 ALIGN=CENTER>Parallel Algebraic Multigrid for Finite Elements (AMGe)</H1>
+
+<P ALIGN=CENTER> Robert Falgout
+<BR>Lawrence Livermore 
+</P>
+
+<P>
+<STRONG>Abstract:</STRONG>
+Computer simulations play an increasingly important role in scientific
+investigations.  As a result, codes are being developed to solve
+complex multi-physics problems at very high resolutions.  Such
+large-scale simulations require massively parallel computing, but this
+is not sufficient.  One also needs scalable algorithms such as
+multigrid, and scalable implementations of these algorithms.
+</P>
+
+<P>
+The Center for Applied Scientific Computing (CASC) at Lawrence
+Livermore National Laboratory is developing multigrid algorithms and
+codes for solving both structured and unstructured grid problems.  In
+this talk, we will first give a brief overview of the work being done
+in CASC, then we will discuss a new algebraic multigrid algorithm
+being developed, called AMGe.
+</P>
+
+<P>
+Algebraic Multigrid (AMG) is well-suited for solving unstructured grid
+problems, and works remarkably well over a wide variety of
+applications.  However, for some problems, AMG is not effective
+without certain problem-specific modifications or careful parameter
+tuning.  As a departure from standard AMG that only requires the
+matrix, AMGe assumes access to element stiffness matrices.  AMGe uses
+these stiffness matrices to construct a local measure derived from
+multigrid theory to determine a local representation of algebraically
+"smooth" error.  This representation provides the basis for
+constructing effective interpolation and coarsening procedures.  To
+parallelize the coarsening algorithm, a technique introduced by Luby
+for maximal independent set algorithms is being investigated.
+</P>
+
+<P>
+This work was performed under the auspices of the U.S. Department of
+Energy by Lawrence Livermore National Laboratory under contract
+no. W-7405-Eng-48.
+</P>
+
+</BODY>
+</HTML>

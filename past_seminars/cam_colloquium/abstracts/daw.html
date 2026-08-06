@@ -1,0 +1,30 @@
+
+Finite element methodologies have long been used in modeling
+circulation in coastal and oceanic waters.  Many codes in wide use
+today, e.g., the QUODDY and ADCIRC simulators, are based on continuous
+Galerkin (CG) finite elements for both elevation and momentum.
+Because continuous elements applied to the primitive continuity
+equation are subject to spurious oscillations and/or phase errors,
+these codes utilize a reformulation of the continuity equation into a
+so-called generalized wave continuity equation (GWCE).  Moreover,
+these finite element codes are not ``locally conservative,'' that is,
+they do not produce mass conservative fluxes.  In recent years, finite
+element methods based on discontinuous basis functions have been
+developed (the discontinuous Galerkin or DG method).  These methods
+are locally conservative and generally provide sharper resolution of
+fronts with minimal oscillation and phase error.  However, these
+methods can involve more degrees of freedom than their continuous
+counterparts.  In this talk, we will present a multi-algorithmic
+finite element strategy based on utilizing both continuous and
+discontinuous Galerkin methods. For example, given a system of coupled
+equations, we may choose to solve some of them using DG and some using
+CG methods, or we may couple CG/DG within the same equation through
+boundary conditions.  We will focus on recent developments in the
+ADCIRC simulator, where we have replaced the GWCE CG formulation with
+a DG formulation based on the primitive continuity equation.
+Numerical results will be presented for this new approach.  We will
+also discuss the recent development and analysis of a coupled CG/DG
+formulation for continuity based on coupling the GWCE with the
+primitive continuity equation.
+
+
