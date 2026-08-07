@@ -60,8 +60,8 @@ I am working in the general area of computational mathematics. My research is fo
 **Past seminars and meetings.**
 
 - [Symposium in honor of Raytcho Lazarov's 70 (Sozopol, Bulgaria, June 7-8, 2013)](Raytcho_2013/).
+- [Workshop on multigrid methods (Penn State, June 19-24, 2000)](MGworkshop/).
 - [Numerical analysis course syllabi (June 2002)](NA_syllabi_2002/).
-- [Advanced summer school / workshop on multigrid methods (Penn State, June 19-24, 2000)](MGworkshop/).
 
 ---
 {: .thick}
