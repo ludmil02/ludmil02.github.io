@@ -1,7 +1,0 @@
-# Postprocessing the Galerkin Method: A Novel Approach to Approximate Inertial Manifolds
-
-> Converted from `past_seminars/cam_colloquium/abstracts/titi.dvi` (DVI). Mathematical notation is approximate — it comes from text extraction, not from the typeset source.
-
-Edriss S. Titi Department of Mathematics & Department of Mechanical and Aerospace Engineering University of California at Irvine
-
-Abstract: A postprocess of the standard Galerkin method for the discretization of dissipative equations is presented. The postprocessed Galerkin method uses the same approximate inertial manifold #app to approximate the high wave number modes of the solution as in the nonlinear Galerkin method (NLG). However, in this postprocessed Galerkin method the value of #app is calculated only once and after the time integration of the standard Galerkin method is completed, contrary to the NLG in which #app evolves with time and affects the time evolution of the lower wave number modes. The postprocessed Galerkin method, which is much cheaper to implement computationally than the NLG, is shown to possess the same rate of convergence (accuracy) as the simplest version of the NLG, which is based on either the Foias-Manley-Temam Approximate Inertial Manifold or the Euler-Galerkin Approximate Inertial Manifold of Foias-Sell-Titi. This is proved for some problems in one and two spatial dimensions, including the Navier-Stokes equations. We will also present a computational study to support our analytical results.
